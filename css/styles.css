@@ -2,14 +2,14 @@
 
 .blue-header{
   color: #2BB3B1;
-  font-size: 1.4rem;
+  font-size: 3rem;
 }
 
 .green-header{
   color: #BFDF33;
   padding: 40px 30px 20px 5px;
   font-weight: bold;
-  font-size: 1rem;
+  font-size: 2.1rem;
 }
 
 .gray-txt{
@@ -36,8 +36,8 @@ p{
 
 .permonth{
   position: relative;
-  bottom: 5px;
-  left: 7px;
+  bottom: 10px;
+  left: 20px;
 }
 
 h1{
@@ -50,7 +50,7 @@ h1{
 
 body{
   font-family: 'Karla', sans-serif;
-  font-size: 14px;
+  font-size: 30px;
   font-weight: bold;
   background-color: #E7EFF6;
   color: white;
@@ -62,9 +62,9 @@ body{
   background-color: white;
   border-radius: 20px;
   display: block;
-  width: 50%;
-  margin: 10% 19%;
-  height: 542px;
+  width: 90%;
+  margin: 20% 50%;
+  height: 978px;
   -webkit-box-shadow: -2px 14px 43px 3px rgba(212,212,212,0.71);
 }
 
@@ -81,15 +81,15 @@ body{
 }
 
 .padding{
-  padding: 5% 70px;
+  padding: 5% 81px;
 }
 
 .height{
-  height: 220px;
+  height: 430px;
 }
 
 .width{
-  width: 30.5%;
+  width: 37.7%;
 }
 
 .in-line{
@@ -109,14 +109,14 @@ li{
   background-color: #BFDF33;
   color: white;
   border: 0;
-  padding: 7% 37%;
-  border-radius: 5px;
-  font-size: 15px;
+  padding: 6% 36%;
+  border-radius: 12px;
+  font-size: 30px;
   font-weight: 800;
   font-family: 'Karla', sans-serif;
   text-decoration: none;
   position: relative;
-  top: 30px;
+  top: 80px;
   -webkit-box-shadow: -2px 14px 43px 3px rgba(0,0,0,0.2);
 }
 
@@ -143,4 +143,3 @@ li{
   }
 
 }
-
